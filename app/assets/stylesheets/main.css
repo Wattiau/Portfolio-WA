@@ -233,20 +233,6 @@ hr {
    color: #1abc9c;
 }
 
-/* Copyright Wrap */
-
-#c {
-   background: #222222;
-   padding-top: 15px;
-   text-align: right;
-}
-
-#c p {
-   color: white
-}
-
-
-
 /* Global Values */
 
 .desc {
